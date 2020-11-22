@@ -502,6 +502,9 @@ a {
 	font-weight: 300;
 	border-top: 1px solid #efefef;
 	padding-bottom: 50px
+	width: 100%;
+    	position: fixed;
+    	bottom: 0;
 }
 
 .footer.footer_index {
