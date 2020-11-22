@@ -501,9 +501,7 @@ a {
 	font-size: 14px;
 	font-weight: 300;
 	border-top: 1px solid #efefef;
-	width: 100%;
-    	position: fixed;
-    	bottom: 0;
+    	margin-bottom: 50px;
 }
 
 .footer.footer_index {
